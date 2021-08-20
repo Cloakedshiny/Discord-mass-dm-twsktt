@@ -1,5 +1,6 @@
 install the next modules : 
 colorama
+discord
 os
 
 - Educational purposes only im not responsible OF YOUR ACTIONS
